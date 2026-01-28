@@ -18,10 +18,10 @@ Based on your answers, Ask2App generates a working application with **full sourc
 
 ## How It Works
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   WE ASK    │ ──▶ │ YOU ANSWER  │ ──▶ │APP DELIVERED│
-│  Questions  │     │  Decisions  │     │ + Source    │
-└─────────────┘     └─────────────┘     └─────────────┘
+┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+│   WE ASK    │ │ YOU ANSWER  │ │APP DELIVERED│
+│  Questions  │ │  Decisions  │ │ + Source    │
+└─────────────┘ └─────────────┘ └─────────────┘
 ```
 
 1. **We Ask** – Simple questions about your app idea
